@@ -1,6 +1,6 @@
 # Django_blog
 步骤：<br>
- A：<>br
+ A：<br>
   定义数据模型models.py，定义post类，设置表中每一个变量<br>
   python manage.py makemigration 创建数据库跟Django的中间文件<br>
   python manage.py migrate 同步更新数据库内容<br>
